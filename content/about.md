@@ -1,8 +1,8 @@
 ---
 date: "2014-04-09"
-description: About me and this site
+description: About this site
 sidemenu: "true"
-title: About the making of this site
+title: about this making of this site
 ---
 
 Hugo is a static site engine written in Go.
