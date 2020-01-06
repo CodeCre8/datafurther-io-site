@@ -1,5 +1,5 @@
 baseurl = "https://example.org/"
-title = "Creative portfolio"
+title = "R at the Margin"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,11 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "A record of my journey into R on the side of design and programming."
+  copyright = "&copy;2019 quilt9deign"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "I am a creative designer and coder with more than 10 years of experience, based in Canada."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -55,13 +54,13 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  #facebook      = "full page or profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
+  #email         = "email@example.com"
+  #twitter       = "full profile url in twitter"
+  #linkedin      = "full profile url in linkedin"
+  #stackoverflow = "full profile url in stackoverflow"
+  #instagram     = "full profile url in instagram"
+  #github        = "full profile url in github"
+  #youtube       = "full profile url in youtube"
+  #whatsapp      = "wa.me service link"
