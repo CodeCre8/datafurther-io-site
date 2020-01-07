@@ -44,6 +44,11 @@ googleAnalytics = ""
   name = "Home"
   url = "portfolio/"
   home = true
+  
+  # ADDED JAN 7,2020
+  [[params.navlinks]]
+  name = "Post"
+  url = "post/"
 
   [[params.navlinks]]
   name = "About"
