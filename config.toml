@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "A record of my journey into R on the side of design and programming."
   copyright = "&copy;2019 quilt9deign"
   sidebarAbout = [
-    "I am a creative designer and coder with more than 10 years of experience, based in Canada."
+    "I have been learning about R on Datacamp since 2019. I am really excited about using R for using data and building tools to tell stories about us. This is the place where I am going to record what I do with R."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -41,7 +41,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Projects"
   url = "portfolio/"
   home = true
   
