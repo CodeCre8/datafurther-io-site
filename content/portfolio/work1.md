@@ -7,7 +7,5 @@ title = "R Project :: Data Science for Algorithmic Trading"
 weight = 1
 +++
 
-I want to blog about my effort of following an article written by Daniel Shapiro, PhD on Medium. I have been learning R on DataCamp for half an year in 2019. In 2020, my plan is to start using R in more ways than working with data. This site is a good example. The content is coming soon.
-<!--more-->
+This is my effort of following an article written by Daniel Shapiro, PhD on Medium about using R to perform algorithmic trading. The content is coming soon.
 
-Content to come.
