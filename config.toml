@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "sea"
   description = "A record of my journey into R on the side of design and programming."
   copyright = "&copy;2019 quilt9deign"
   sidebarAbout = [
