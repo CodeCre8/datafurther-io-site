@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   description = "A record of my journey into R on the side of design and programming."
   copyright = "&copy;2019 quilt9deign"
   sidebarAbout = [
-    "I have been learning about R on Datacamp since 2019. As a designer who started using HTML, CSS, and JS, I am really excited about using R with data to build tools to tell stories about us. This is the place where I am going to record what I do with R."
+    "Stepping up with R in 2020. Started learning R last year and with a design background, I am really excited about using R with data to build tools to tell stories about us. Here is where I am going to record the mistakes, the successes, and the frustration with R."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
