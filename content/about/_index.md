@@ -1,27 +1,15 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
-title = "About site"
+title: About
+date: '2020-01-09'
 +++
 
-Hugo is a static site engine written in Go.
+> You desire to change must be greater than your desire to stay the same.
+> *-James Clear*
 
+###This is the space where I am going to change and use R to make something.
 
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Thanks for reading!
+**Some of the site features:**
+* [Hugo](https://gohugo.io/)
+* [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+* [Blogdown](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/)
+* [Theme: Creative portfolio](https://github.com/kishaningithub)
