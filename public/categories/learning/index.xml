@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on R at the Margin</title>
+    <link>/categories/learning/</link>
+    <description>Recent content in learning on R at the Margin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stepping up with R 2020</title>
+      <link>/post/stepping-up-with-r-2020/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/stepping-up-with-r-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
