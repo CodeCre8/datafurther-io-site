@@ -20,3 +20,15 @@ blockquote {
   padding-top: 0px;
   padding-bottom: 0px;
 }
+input[type=checkbox] {
+  margin-right: 5px;
+}
+ul {
+  padding-left: 30px;
+}
+li {
+  margin-left: -15px;
+}
+.sidebar-menu ul {
+  padding-left: 0;
+}
