@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>trading on R at the Margin</title>
-    <link>/tags/trading/</link>
+    <link>https://datafurther.rbind.io/tags/trading/</link>
     <description>Recent content in trading on R at the Margin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/trading/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datafurther.rbind.io/tags/trading/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Science for Algorithmic Trading</title>
-      <link>/portfolio/data-science-for-algorithmic-trading/</link>
+      <link>https://datafurther.rbind.io/portfolio/data-science-for-algorithmic-trading/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/data-science-for-algorithmic-trading/</guid>
+      <guid>https://datafurther.rbind.io/portfolio/data-science-for-algorithmic-trading/</guid>
       <description>This is my effort of following an article written by Daniel Shapiro, PhD on Medium about using R to perform algorithmic trading. The content is coming soon.</description>
     </item>
     
