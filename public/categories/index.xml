@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R at the Margin</title>
-    <link>https://datafurther.rbind.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on R at the Margin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datafurther.rbind.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://datafurther.rbind.io/categories/development/</link>
+      <link>/categories/development/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://datafurther.rbind.io/categories/development/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://datafurther.rbind.io/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://datafurther.rbind.io/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wisdom</title>
-      <link>https://datafurther.rbind.io/categories/wisdom/</link>
+      <link>/categories/wisdom/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://datafurther.rbind.io/categories/wisdom/</guid>
+      <guid>/categories/wisdom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://datafurther.rbind.io/categories/golang/</link>
+      <link>/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://datafurther.rbind.io/categories/golang/</guid>
+      <guid>/categories/golang/</guid>
       <description></description>
     </item>
     

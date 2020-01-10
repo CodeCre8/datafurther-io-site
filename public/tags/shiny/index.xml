@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shiny on R at the Margin</title>
-    <link>https://datafurther.rbind.io/tags/shiny/</link>
+    <link>/tags/shiny/</link>
     <description>Recent content in Shiny on R at the Margin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datafurther.rbind.io/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Make Something Shiny</title>
-      <link>https://datafurther.rbind.io/portfolio/make-something-shiny/</link>
+      <link>/portfolio/make-something-shiny/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://datafurther.rbind.io/portfolio/make-something-shiny/</guid>
+      <guid>/portfolio/make-something-shiny/</guid>
       <description>&lt;p&gt;One of the things that I would love to do is make Shiny apps. I will blog about my effort. The content is coming soon.&lt;/p&gt;</description>
     </item>
     

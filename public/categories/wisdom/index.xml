@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wisdom on R at the Margin</title>
-    <link>https://datafurther.rbind.io/categories/wisdom/</link>
+    <link>/categories/wisdom/</link>
     <description>Recent content in Wisdom on R at the Margin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datafurther.rbind.io/categories/wisdom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/wisdom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quotes I Like</title>
-      <link>https://datafurther.rbind.io/portfolio/quotes-i-like/</link>
+      <link>/portfolio/quotes-i-like/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://datafurther.rbind.io/portfolio/quotes-i-like/</guid>
+      <guid>/portfolio/quotes-i-like/</guid>
       <description>&lt;p&gt;What do quotes mean to me?&lt;/p&gt;</description>
     </item>
     
