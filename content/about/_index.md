@@ -4,7 +4,7 @@ date = '2020-01-09'
 +++
 
 ### A new journey to start a new decade
-> You desire to change must be greater than your desire to stay the same.
+> You desire to change must be greater than your desire to stay the same.   
 > *- James Clear*
 
 This is the space where I learn the use of data with R. I am going to work on projects that would allow me to generate insights, stories, and new perspectives. Along the way, I will learn so much more than R such as the following features used on the site:

@@ -11,9 +11,8 @@ weight: 4
 ---
 
 <!--more-->
-### Milestones Past & Present
-
-> The safest road to hell is the gradual one - the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts.
+## Milestones Past & Present
+> The safest road to hell is the gradual one - the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts.  
 > *- C. S. Lewis*
 
 ### Do
@@ -22,4 +21,4 @@ weight: 4
 - [ ]  R Trading
 
 ### Done
-- [x]  Datafurther.rbind.io
+- [x]  datafurther.rbind.io online
