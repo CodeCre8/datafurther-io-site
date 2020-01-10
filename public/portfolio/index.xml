@@ -12,22 +12,30 @@
     
     
     <item>
-      <title>R Project :: Data Science for Algorithmic Trading</title>
-      <link>/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title>Data Science for Algorithmic Trading</title>
+      <link>/portfolio/data-science-for-algorithmic-trading/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/work1/</guid>
+      <guid>/portfolio/data-science-for-algorithmic-trading/</guid>
       <description>This is my effort of following an article written by Daniel Shapiro, PhD on Medium about using R to perform algorithmic trading. The content is coming soon.</description>
     </item>
     
     <item>
-      <title>Project: LSTM Model predicting Bitcoin with Tweet Volume &amp; Sentiment</title>
-      <link>/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>Make Something Shiny</title>
+      <link>/portfolio/make-something-shiny/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/work3/</guid>
-      <description>Following an article written by Paul Simpson on Medium about exploring the options available to create a model that could predict the price action over a select period of time. Content coming soon.
-unsplash-logoToa Heftiba</description>
+      <guid>/portfolio/make-something-shiny/</guid>
+      <description>&lt;p&gt;One of the things that I would love to do is make Shiny apps. I will blog about my effort. The content is coming soon.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quotes I Like</title>
+      <link>/portfolio/quotes-i-like/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/quotes-i-like/</guid>
+      <description>&lt;p&gt;What do quotes mean to me?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -100,15 +108,6 @@ unsplash-logoToa Heftiba</description>
       
       <guid>/portfolio/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Make Something Shiny</title>
-      <link>/portfolio/make-something-shiny/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/make-something-shiny/</guid>
-      <description>&lt;p&gt;One of the things that I would love to do is make Shiny apps. I will blog about my effort. The content is coming soon.&lt;/p&gt;</description>
     </item>
     
   </channel>

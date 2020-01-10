@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Data Science for Algorithmic Trading</title>
+      <link>/portfolio/data-science-for-algorithmic-trading/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/data-science-for-algorithmic-trading/</guid>
+      <description>This is my effort of following an article written by Daniel Shapiro, PhD on Medium about using R to perform algorithmic trading. The content is coming soon.</description>
+    </item>
+    
+    <item>
       <title>Make Something Shiny</title>
       <link>/portfolio/make-something-shiny/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>

@@ -1,4 +1,4 @@
 +++
-title: About
-date: '2020-01-09'
+title = "About R At The Margin"
+date = '2020-01-09'
 +++
