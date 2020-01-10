@@ -29,6 +29,6 @@ ul {
 li {
   margin-left: -15px;
 }
-.sidebar-menu {
-  padding-left: 0;
+.sidebar-menu li {
+  margin-left: 0;
 }
