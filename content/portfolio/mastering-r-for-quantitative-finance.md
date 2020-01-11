@@ -8,7 +8,7 @@ tags:
   - trading
 image: 'img/portfolio/sun-bubbles.jpg'
 showonlyimage: no
-weight: 8
+weight: 9
 ---
 
 I am going to follow the writing of Edina Berlinger on using R to optimize trading strategy. Also, I am hoping to build up my risk management system. Content coming soon.

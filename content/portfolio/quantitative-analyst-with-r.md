@@ -8,7 +8,7 @@ categories:
 tags: []
 image: 'img/portfolio/light-venice.jpg'
 showonlyimage: no
-weight: 12
+weight: 7
 ---
 
 Some time later in 2020, I will take the course "Quantitative Analyst with R" on Datacamp. Content to come.
