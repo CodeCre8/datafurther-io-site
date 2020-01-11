@@ -6,7 +6,7 @@ categories:
   - Development
 image: 'img/portfolio/sun-rapids.jpg'
 showonlyimage: no
-weight: 13
+weight: 14
 ---
 
 Understand the basics of R and how they can be applied in various Quantitative Finance scenarios. I want to learn how to use R to build quantitative finance models with ease. content will follow.

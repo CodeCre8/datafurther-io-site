@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>Quantitative Analyst with R</title>
-      <link>/portfolio/quantitative-analyst-with-r/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/quantitative-analyst-with-r/</guid>
-      <description>&lt;p&gt;Some time later in 2020, I will take the course &amp;ldquo;Quantitative Analyst with R&amp;rdquo; on Datacamp. Content to come.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Statistician with R</title>
       <link>/portfolio/statistician-with-r/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/statistician-with-r/</guid>
       <description>&lt;p&gt;This is a track that I follow on Datacamp. The entire study of statistics originated from Gauss, and allowed us to understand markets, prices and probabilities, among other applications. Modern-day terminology defines the normal distribution as the bell curve with &amp;ldquo;normal&amp;rdquo; parameters. And since the only way to understand Gauss and the bell curve is to understand statistics, this article will build a bell curve and apply it to a trading example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Analyst with R</title>
+      <link>/portfolio/quantitative-analyst-with-r/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/quantitative-analyst-with-r/</guid>
+      <description>&lt;p&gt;Some time later in 2020, I will take the course &amp;ldquo;Quantitative Analyst with R&amp;rdquo; on Datacamp. Content to come.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -49,29 +49,20 @@
     
     <item>
       <title>My Life Before R</title>
-      <link>https://www.helenshiu.com/</link>
+      <link>/portfolio/my-life-before-r/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid></guid>
+      <guid>/portfolio/my-life-before-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Am I Feeling?</title>
-      <link></link>
+      <link>/portfolio/how-am-i-feeling/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid></guid>
+      <guid>/portfolio/how-am-i-feeling/</guid>
       <description>&lt;p&gt;I have many options. Take action now. I am in a stronger position than I realize. Open my mind. Look at other routes.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Quantitative Analyst with R</title>
-      <link>/portfolio/quantitative-analyst-with-r/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/quantitative-analyst-with-r/</guid>
-      <description>&lt;p&gt;Some time later in 2020, I will take the course &amp;ldquo;Quantitative Analyst with R&amp;rdquo; on Datacamp. Content to come.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -141,12 +132,12 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
     </item>
     
     <item>
-      <title>Param Jeet - Learning quantitative finance with R</title>
-      <link>/portfolio/param-jeet-learning-quantitative-finance-with-r/</link>
-      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Quantitative Analyst with R</title>
+      <link>/portfolio/quantitative-analyst-with-r/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/param-jeet-learning-quantitative-finance-with-r/</guid>
-      <description>&lt;p&gt;Understand the basics of R and how they can be applied in various Quantitative Finance scenarios. I want to learn how to use R to build quantitative finance models with ease. content will follow.&lt;/p&gt;</description>
+      <guid>/portfolio/quantitative-analyst-with-r/</guid>
+      <description>&lt;p&gt;Some time later in 2020, I will take the course &amp;ldquo;Quantitative Analyst with R&amp;rdquo; on Datacamp. Content to come.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -156,6 +147,15 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
       
       <guid>/portfolio/predictive-analysis/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Param Jeet - Learning quantitative finance with R</title>
+      <link>/portfolio/param-jeet-learning-quantitative-finance-with-r/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/param-jeet-learning-quantitative-finance-with-r/</guid>
+      <description>&lt;p&gt;Understand the basics of R and how they can be applied in various Quantitative Finance scenarios. I want to learn how to use R to build quantitative finance models with ease. content will follow.&lt;/p&gt;</description>
     </item>
     
     <item>
