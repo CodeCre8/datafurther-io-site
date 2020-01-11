@@ -4,8 +4,8 @@ author: CodeCre8
 date: '2020-01-09'
 slug: quotes-i-like
 categories: ["Wisdom"]
-image: 'img/portfolio/post3.jpg'
-showonlyimage: no
+image: 'img/portfolio/sun-rainbow.jpg'
+showonlyimage: true
 weight: 3
 ---
 

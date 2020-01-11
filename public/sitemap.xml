@@ -23,13 +23,13 @@
   </url>
   
   <url>
-    <loc>/portfolio/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <loc>/portfolio/my-other-life/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <loc>/portfolio/quantitative-analyst-with-r/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -74,6 +74,11 @@
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/datacamp/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   

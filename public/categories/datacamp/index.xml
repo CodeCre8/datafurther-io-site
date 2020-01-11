@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datacamp on R at the Margin</title>
+    <link>/categories/datacamp/</link>
+    <description>Recent content in Datacamp on R at the Margin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/datacamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quantitative Analyst with R</title>
+      <link>/portfolio/quantitative-analyst-with-r/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/quantitative-analyst-with-r/</guid>
+      <description>&lt;p&gt;Some time later in 2020, I will take the course &amp;ldquo;Quantitative Analyst with R&amp;rdquo; on Datacamp. Content to come.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

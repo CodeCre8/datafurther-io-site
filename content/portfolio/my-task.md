@@ -5,8 +5,8 @@ date: '2020-01-10'
 slug: my-task
 categories:
   - Personal
-image: ''
-showonlyimage: no
+image: 'img/portfolio/bubbles.jpg'
+showonlyimage: true
 weight: 4
 ---
 

@@ -7,7 +7,7 @@ categories:
   - Development
   - R
 tags: ['trading']
-image: 'img/portfolio/post1.jpg'
+image: 'img/portfolio/sun-shoes.jpg'
 showonlyimage: no
 weight: 1
 ---

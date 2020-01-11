@@ -6,7 +6,7 @@ slug: make-something-shiny
 categories:
   - Development
 tags: ['Shiny']
-image: 'img/portfolio/post2.jpg'
+image: 'img/portfolio/as-above-so-below.jpg'
 showonlyimage: no
 weight: 2
 ---
