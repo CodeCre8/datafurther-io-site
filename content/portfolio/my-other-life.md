@@ -1,8 +1,8 @@
 ---
-title: "My Other Life"
+title: "My Life Before R"
 author: "CodeCre8"
 date: '2020-01-10'
-slug: "my-other-life"
+slug: "my-life-before-r"
 categories:
   - "Personal"
 image: 'img/portfolio/my-work.jpg'

@@ -6,7 +6,7 @@
     <description>Recent content on R at the Margin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -48,11 +48,11 @@
     </item>
     
     <item>
-      <title>My Other Life</title>
-      <link>/portfolio/my-other-life/</link>
+      <title>My Life Before R</title>
+      <link>/portfolio/my-life-before-r/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/my-other-life/</guid>
+      <guid>/portfolio/my-life-before-r/</guid>
       <description></description>
     </item>
     
@@ -84,30 +84,30 @@
     </item>
     
     <item>
-      <title>Name of the work 8</title>
-      <link>/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <title>Mastering R for Quantitative Finance</title>
+      <link>/portfolio/mastering-r-for-quantitative-finance/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&#39;t them.&lt;/p&gt;</description>
+      <guid>/portfolio/mastering-r-for-quantitative-finance/</guid>
+      <description>&lt;p&gt;I am going to follow the writing of Edina Berlinger on using R to optimize trading strategy. Also, I am hoping to build up my risk management system. Content coming soon.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item with image</title>
-      <link>/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <title>Automated Trading System</title>
+      <link>/portfolio/automated-trading-system/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>/portfolio/automated-trading-system/</guid>
+      <description>&lt;p&gt;This is a R article written by Wei Lin. It is about using R to build data product to do long-term trading. It is a simple automated system in R that Wei Lin built while learning R. I am going to do the same. Content coming soon.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item with image</title>
-      <link>/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <title>Building Reliable Trading Systems</title>
+      <link>/portfolio/building-reliable-trading-systems/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>/portfolio/building-reliable-trading-systems/</guid>
+      <description>&lt;p&gt;This book written by Keith Fitschen provides a lot of chart examples. I hope this can help me get used to reading charts and forming insights to action. This book will serve as perfect complement to other projects.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -132,12 +132,30 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
     </item>
     
     <item>
-      <title>Item with image</title>
-      <link>/portfolio/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <title>Trades About to Happen</title>
+      <link>/portfolio/trades-about-to-happen/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>/portfolio/trades-about-to-happen/</guid>
+      <description>&lt;p&gt;I hope Trades About to Happen can serve as a good complement to finding trades. Price and volume analysis is one of the most effective approaches to market analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Param Jeet - Learning quantitative finance with R</title>
+      <link>/portfolio/param-jeet-learning-quantitative-finance-with-r/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/param-jeet-learning-quantitative-finance-with-r/</guid>
+      <description>&lt;p&gt;Understand the basics of R and how they can be applied in various Quantitative Finance scenarios. I want to learn how to use R to build quantitative finance models with ease. content will follow.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Predictive Analysis</title>
+      <link>/portfolio/predictive-analysis/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/predictive-analysis/</guid>
+      <description></description>
     </item>
     
     <item>

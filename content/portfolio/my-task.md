@@ -16,9 +16,9 @@ weight: 4
 > *- C. S. Lewis*
 
 ### Do
-- [ ]  Update projects
 - [ ]  DataCamp Everyday
-- [ ]  R Trading
+- [ ]  Start working on one of the projects
 
 ### Done
 - [x]  datafurther.rbind.io online
+- [x]  Update projects

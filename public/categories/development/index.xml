@@ -6,7 +6,7 @@
     <description>Recent content in Development on R at the Margin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,51 @@
       
       <guid>/portfolio/make-something-shiny/</guid>
       <description>&lt;p&gt;One of the things that I would love to do is make Shiny apps. I will blog about my effort. The content is coming soon.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mastering R for Quantitative Finance</title>
+      <link>/portfolio/mastering-r-for-quantitative-finance/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/mastering-r-for-quantitative-finance/</guid>
+      <description>&lt;p&gt;I am going to follow the writing of Edina Berlinger on using R to optimize trading strategy. Also, I am hoping to build up my risk management system. Content coming soon.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Automated Trading System</title>
+      <link>/portfolio/automated-trading-system/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/automated-trading-system/</guid>
+      <description>&lt;p&gt;This is a R article written by Wei Lin. It is about using R to build data product to do long-term trading. It is a simple automated system in R that Wei Lin built while learning R. I am going to do the same. Content coming soon.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building Reliable Trading Systems</title>
+      <link>/portfolio/building-reliable-trading-systems/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/building-reliable-trading-systems/</guid>
+      <description>&lt;p&gt;This book written by Keith Fitschen provides a lot of chart examples. I hope this can help me get used to reading charts and forming insights to action. This book will serve as perfect complement to other projects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Trades About to Happen</title>
+      <link>/portfolio/trades-about-to-happen/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/trades-about-to-happen/</guid>
+      <description>&lt;p&gt;I hope Trades About to Happen can serve as a good complement to finding trades. Price and volume analysis is one of the most effective approaches to market analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Param Jeet - Learning quantitative finance with R</title>
+      <link>/portfolio/param-jeet-learning-quantitative-finance-with-r/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/param-jeet-learning-quantitative-finance-with-r/</guid>
+      <description>&lt;p&gt;Understand the basics of R and how they can be applied in various Quantitative Finance scenarios. I want to learn how to use R to build quantitative finance models with ease. content will follow.&lt;/p&gt;</description>
     </item>
     
     <item>
