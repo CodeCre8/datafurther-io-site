@@ -1,10 +1,10 @@
 ---
-title: Predictive Analysis
-author: ''
+title: 'Predictive Analysis'
 date: '2020-01-11'
 slug: predictive-analysis
-categories: []
-tags: []
-image: ''
-showonlyimage: no
+categories: [R]
+tags: [trading]
+image: 'img/portfolio/believe.jpg'
+showonlyimage: true
+weight: 13
 ---

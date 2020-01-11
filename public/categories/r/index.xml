@@ -6,7 +6,7 @@
     <description>Recent content in R on R at the Margin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,15 @@
       
       <guid>/portfolio/data-science-for-algorithmic-trading/</guid>
       <description>This is my effort of following an article written by Daniel Shapiro, PhD on Medium about using R to perform algorithmic trading. The content is coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Predictive Analysis</title>
+      <link>/portfolio/predictive-analysis/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/predictive-analysis/</guid>
+      <description></description>
     </item>
     
     <item>

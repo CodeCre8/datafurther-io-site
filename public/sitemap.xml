@@ -28,12 +28,12 @@
   </url>
   
   <url>
-    <loc>/portfolio/quantitative-analyst-with-r/</loc>
+    <loc>/portfolio/how-am-i-feeling/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/how-am-i-feeling/</loc>
+    <loc>/portfolio/quantitative-analyst-with-r/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,6 +78,11 @@
   </url>
   
   <url>
+    <loc>/portfolio/predictive-analysis/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url>
@@ -93,7 +98,7 @@
   </url>
   
   <url>
-    <loc>/portfolio/predictive-analysis/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -124,11 +129,6 @@
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,12 +193,12 @@
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
