@@ -6,7 +6,7 @@ slug: quantitative-analyst-with-r
 categories:
   - Datacamp
 tags: []
-image: 'img/portfolio/sun-rapids.jpg'
+image: 'img/portfolio/light-venice.jpg'
 showonlyimage: no
 weight: 5
 ---
