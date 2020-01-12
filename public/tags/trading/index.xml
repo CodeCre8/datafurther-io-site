@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Data Science for Algorithmic Trading</title>
-      <link>/portfolio/data-science-for-algorithmic-trading/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Automated Trading System</title>
+      <link>/portfolio/automated-trading-system/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/data-science-for-algorithmic-trading/</guid>
-      <description>This is my effort of following an article written by Daniel Shapiro, PhD on Medium about using R to perform algorithmic trading. The content is coming soon.</description>
+      <guid>/portfolio/automated-trading-system/</guid>
+      <description>&lt;p&gt;This is a R article written by Wei Lin. It is about using R to build data product to do long-term trading. It is a simple automated system in R that Wei Lin built while learning R. I am going to do the same. Content coming soon.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>/portfolio/mastering-r-for-quantitative-finance/</guid>
       <description>&lt;p&gt;I am going to follow the writing of Edina Berlinger on using R to optimize trading strategy. Also, I am hoping to build up my risk management system. Content coming soon.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Automated Trading System</title>
-      <link>/portfolio/automated-trading-system/</link>
-      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/automated-trading-system/</guid>
-      <description>&lt;p&gt;This is a R article written by Wei Lin. It is about using R to build data product to do long-term trading. It is a simple automated system in R that Wei Lin built while learning R. I am going to do the same. Content coming soon.&lt;/p&gt;</description>
     </item>
     
     <item>
