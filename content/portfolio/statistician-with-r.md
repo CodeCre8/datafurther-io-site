@@ -5,10 +5,9 @@ date: '2020-01-10'
 slug: statistician-with-r
 categories:
   - Datacamp
-tags: []
 image: 'img/portfolio/sun-bubbles.jpg'
 showonlyimage: no
-weight: 8
+weight: 9
 ---
 This is a track that I follow on Datacamp. The entire study of statistics originated from Gauss, and allowed us to understand markets, prices and probabilities, among other applications. Modern-day terminology defines the normal distribution as the bell curve with "normal" parameters. And since the only way to understand Gauss and the bell curve is to understand statistics, this article will build a bell curve and apply it to a trading example.
 <!--more-->

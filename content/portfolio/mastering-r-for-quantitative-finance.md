@@ -8,7 +8,7 @@ tags:
   - trading
 image: 'img/portfolio/sun-camp.jpg'
 showonlyimage: no
-weight: 9
+weight: 8
 ---
 
 I am going to follow the writing of Edina Berlinger on using R to optimize trading strategy. Also, I am hoping to build up my risk management system. Content coming soon.
