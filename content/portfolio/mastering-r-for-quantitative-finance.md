@@ -6,7 +6,7 @@ categories:
   - Development
 tags:
   - trading
-image: 'img/portfolio/sun-bubbles.jpg'
+image: 'img/portfolio/sun-camp.jpg'
 showonlyimage: no
 weight: 9
 ---

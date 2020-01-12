@@ -6,7 +6,7 @@ categories:
   - Book
 tags:
   - visualization
-image: 'img/portfolio/sun-camp.jpg'
+image: 'img/portfolio/chipmuck.jpg'
 showonlyimage: no
 weight: 8
 ---

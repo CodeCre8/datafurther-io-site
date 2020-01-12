@@ -6,7 +6,7 @@ slug: statistician-with-r
 categories:
   - Datacamp
 tags: []
-image: 'img/portfolio/chipmuck.jpg'
+image: 'img/portfolio/sun-bubbles.jpg'
 showonlyimage: no
 weight: 8
 ---
