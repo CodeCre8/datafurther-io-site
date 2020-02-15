@@ -7,15 +7,33 @@ categories:
   - Datacamp
 image: 'img/portfolio/sun-bubbles.jpg'
 showonlyimage: no
+output: 
+  html_document:
+    number_sections: TRUE
 weight: 9
 ---
-This is a track that I follow on Datacamp. The entire study of statistics originated from Gauss, and allowed us to understand markets, prices and probabilities, among other applications. Modern-day terminology defines the normal distribution as the bell curve with "normal" parameters. And since the only way to understand Gauss and the bell curve is to understand statistics, this article will build a bell curve and apply it to a trading example.
+
+# Add Statistics to R
+
+I had a problem.  
+
+Having witnessed the lies and lack of accountabilities during the implosion of the financial market in 2008, I no longer believed in the existence of professionalism and integrity in the financial industry. The sceptic in me has decided the role of keeping and growing my own hard-earned savings has to be a personal one.
 <!--more-->
 
-### The following is an explanation about the importance of learning statistics for trading by Vikas Sharma, Professional Investment Expertise on Quora.
+With the role comes the task of trading. It is something that I have to take as seriously as a second job. Further more, I need to be good at it. I want to be a trader who is successful and trades profitable.  
+
+In this juncture of my life, the timing is perfect for me to devote the needed time and focus to take on this new challenge.I was taking courses on DataCamp out of interest of working with data, and that is where I discovered R. I believe knowing how to work with data efficiently can be a huge help in trading stocks. As I started taking courses such as Quantitative Analyst with R on DataCamp, I found myself running into concepts that I didn't really quite understanding. I started to suspect that knowing how use R to work with data isn't going to be enough. The fear of getting in over my head started to set in until I stumbled upon statistics.
+
+Statistics is going to help me understand the markets, prices and probabilities, among other applications.
+
+This is the space where I am going to keep a record what I learn about statistics and its application in relation to trading stocks, and R so that I can refer back to it in the future. 
+
+# How is statistics going to help me succeed?
+The following content comes largely from this article I found on Quora.
 [Click for article](https://www.quora.com/How-can-statistics-be-used-in-trading)
 
-Carl Friedrich Gauss was a brilliant mathematician who lived in the early 1800s and gave the world quadratic equations, methods of least squares analysis and normal distribution. Though Pierre-Simon Laplace was considered the original founder of the normal distribution in 1809, Gauss is often given the credit for the discovery, because he wrote about the concept early on, and his work has been the subject of much study by mathematicians for 200 years. In fact, this distribution is often referred to as the "Gaussian Distribution."
+## Father of statistics
+The entire study of statistics originated from Carl Friedrich Gauss. He was a brilliant mathematician who lived in the early 1800s and gave the world quadratic equations, methods of least squares analysis and normal distribution. Though Pierre-Simon Laplace was considered the original founder of the normal distribution in 1809, Gauss is often given the credit for the discovery, because he wrote about the concept early on, and his work has been the subject of much study by mathematicians for 200 years. In fact, this distribution is often referred to as the "Gaussian Distribution."
 
 The entire study of statistics originated from Gauss, and allowed us to understand markets, prices and probabilities, among other applications. Modern-day terminology defines the normal distribution as the bell curve with "normal" parameters. And since the only way to understand Gauss and the bell curve is to understand statistics, this article will build a bell curve and apply it to a trading example.
 
