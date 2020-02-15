@@ -98,7 +98,9 @@
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/statistician-with-r/</guid>
-      <description>&lt;p&gt;This is a track that I follow on Datacamp. The entire study of statistics originated from Gauss, and allowed us to understand markets, prices and probabilities, among other applications. Modern-day terminology defines the normal distribution as the bell curve with &amp;ldquo;normal&amp;rdquo; parameters. And since the only way to understand Gauss and the bell curve is to understand statistics, this article will build a bell curve and apply it to a trading example.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;add-statistics-to-r&#34;&gt;Add Statistics to R&lt;/h1&gt;
+&lt;p&gt;I had a problem.&lt;/p&gt;
+&lt;p&gt;Having witnessed the lies and lack of accountabilities during the implosion of the financial market in 2008, I no longer believed in the existence of professionalism and integrity in the financial industry. The sceptic in me has decided the role of keeping and growing my own hard-earned savings has to be a personal one.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -116,8 +118,8 @@
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
-We&#39;ll start with creating a new site with a very basic template.</description>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
@@ -128,7 +130,7 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
       <guid>/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
