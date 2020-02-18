@@ -6,7 +6,7 @@
     <description>Recent content in trading on R at the Margin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/trading/index.xml" rel="self" type="application/rss+xml" />
     
@@ -54,15 +54,6 @@
       
       <guid>/portfolio/predictive-analysis/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Building Successful Trading Systems</title>
-      <link>/building-successful-trading-systems/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/building-successful-trading-systems/</guid>
-      <description>&lt;p&gt;To trade successfully, I need to know more than using R to work with data. I need a trading system. There are many books and websites promise to deliver a profitable trading system. The truth is that it is difficult for a beginner like myself to determine who is the truth-teller. Maybe it is not easy even for veterans, based on what I have gathered in forums and comment sections. Then, I have stumbled upon this book &amp;ldquo;Building Trading Systems&amp;rdquo; by Keith Fitchen through the library.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -90,6 +90,148 @@
       <div class="content-column-content">
          <h1>Building Reliable Trading Systems</h1>
          <p>This book written by Keith Fitschen provides a lot of chart examples. I hope this can help me get used to reading charts and forming insights to action. This book will serve as perfect complement to other projects.</p>
+<p>To trade successfully, I need to know more than using R to work with data. I need a trading system. There are many books and websites promise to deliver a profitable trading system. The truth is that it is difficult for a beginner like myself to determine who is the truth-teller. Maybe it is not easy even for veterans, based on what I have gathered in forums and comment sections. Then, I have stumbled upon this book &ldquo;Building Trading Systems&rdquo; by Keith Fitchen through the library.</p>
+<p>After researching the reviews online, I have got a good feeling about &ldquo;Building a Trading System&rdquo;.</p>
+<blockquote>
+<p>One of the best systematic trading books out there<br>
+I have read many systematic trading books but I recommend this one above all of them. The author shows absolutely mind blowing equity curves with strategies so simple, and hundreds or thousands of trades per strategy, that overfitting seems very very unlikely. Those equity curves look better than in any other book I have ever seen. If you aren&rsquo;t satisfied with this book i don&rsquo;t know what on earth can satisfy you.</p>
+</blockquote>
+<ul>
+<li>Verified Purchaser, September 9, 2018</li>
+</ul>
+<h2 id="the-author---keith-fitchen">The Author - Keith Fitchen</h2>
+<p>Keith Fitchen is the creator of three very successful systems: Aberration, Aztec, I-Master and the president of TradeSystem, Inc. He is recognized as one of the most dedicated professional technical analysts in the financial industry.</p>
+<h3 id="insights">Insights</h3>
+<blockquote>
+<p>The first pitfall in trading is greed. To address that is to establish max drawdown, average annual max drawdown, and the longest time between equity highs.<br>
+The greatest pitfall is the danger of curving-fitting. Using too few trades in the development samples, the developed trading system would be curve-fitted. It results in developing a trading system that won&rsquo;t perform as well it back-tests.
+Most strategies fail because they are overly curve-fitted.
+The goal of a trading system is one that its return averages more per year than its biggest draw-down. I must be able to trade through the drawdowns in order to realize returns.
+Draw-dwon is not a function of return.</p>
+</blockquote>
+<hr>
+<h2 id="what-is-a-tradable-strategy">What is a Tradable Strategy?</h2>
+<p>In order to trade profitably, one must be able to survive each trading day. Staying alive means having the discipline to follow a proven trading system in order to manage through the risk in the form of drawdown to realize the return.</p>
+<h3 id="trade-system-characteristics">Trade System Characteristics</h3>
+<ul>
+<li>Normal return/draw-down: These are the risk/reward I experience most of the time.</li>
+<li>Max draw-down: This is the worst-case benchmark I will have to trade through over an extended period of time, in the last 5 or 10 years.</li>
+<li>Longest time between equity highs: This is the longest time I will go before hitting a new equity high.</li>
+<li>Average annual max draw-down</li>
+</ul>
+<h3 id="performance-objectives">Performance Objectives</h3>
+<ol>
+<li>Average annual return is greater than max draw-down over at least a 5-year period.</li>
+<li>Average annual return must be a multiple of the average annual max draw-down.</li>
+<li>Max draw-down I can tolerate.</li>
+</ol>
+<h3 id="trend-trading-tenets">Trend Trading Tenets</h3>
+<ul>
+<li>I am not going to make 100 percent each year.</li>
+<li>Return and Risk are often correlated. Aimming for a relative high return comes with a relative high draw-down. The the same relation for the lower return.</li>
+<li>Exceptional returns might have to carry my performance for years.</li>
+<li>Trading for real means going through periods without any gains.</li>
+<li>Best traders average less than 30 percent a year.</li>
+<li>Best traders experience a max draw-down every five-year that is only a few percent less than their average return.</li>
+</ul>
+<hr>
+<h2 id="developing-a-strategy-so-it-trades-like-it-back-test">Developing a Strategy So It Trades Like it Back-Test</h2>
+<p><strong>Step 1: Define the risk/reward balance I can live with</strong>
+<strong>Step 2: Develop a strategy that trades as well as it back-tests</strong></p>
+<p>Developing a strategy involves testing ideas against historical data to see if the idea is profitable. During the development of strategy, no one has the infinite data pool but instead the small subset of the historical data to test the idea to see if it would be profitable in the future.</p>
+<h3 id="curve-fitting">Curve-Fitting</h3>
+<p>According to the author, curve-fitting can be defined as the following:</p>
+<blockquote>
+<p>Either the overuse of trading rules, parameters, filters, stops, and so forth when developing a trading strategy on a relatively large body of data, or the proper use of rules, filters, and so on on a relatively small body of data.</p>
+</blockquote>
+<p><strong>Example:</strong> Swiss Franc during the 1980s
+<strong>Parameter:</strong> Moving Average.
+<strong>Idea:</strong> If today&rsquo;s n-day average is higher than yesterday&rsquo;s, the trend is up so I buy one contract. I hold that position until today&rsquo;s n-day average is less than yesterday&rsquo;s. When that happens, I exit my long posiition and go short. It is called a <em>reversal system</em>. I always have a position and that position alternates from long to short to long. The breakout in the table below shows the results when the n-day average is varied from 10 days to 100 days in 10-day increments.</p>
+<table>
+<thead>
+<tr>
+<th># Days</th>
+<th align="center">Winning Trads</th>
+<th align="center">Losing Trades</th>
+<th align="center">Profit</th>
+<th align="right">Profit/Trade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10</td>
+<td align="center">116</td>
+<td align="center">184</td>
+<td align="center">31,625</td>
+<td align="right">105</td>
+</tr>
+<tr>
+<td>20</td>
+<td align="center">77</td>
+<td align="center">127</td>
+<td align="center">64,200</td>
+<td align="right">315</td>
+</tr>
+<tr>
+<td>30</td>
+<td align="center">59</td>
+<td align="center">99</td>
+<td align="center">50,763</td>
+<td align="right">321</td>
+</tr>
+<tr>
+<td>40</td>
+<td align="center">49</td>
+<td align="center">63</td>
+<td align="center">61,037</td>
+<td align="right">545</td>
+</tr>
+<tr>
+<td>50</td>
+<td align="center">37</td>
+<td align="center">43</td>
+<td align="center">72,072</td>
+<td align="right">900</td>
+</tr>
+<tr>
+<td>60</td>
+<td align="center">25</td>
+<td align="center">59</td>
+<td align="center">45,187</td>
+<td align="right">538</td>
+</tr>
+<tr>
+<td>70</td>
+<td align="center">36</td>
+<td align="center">54</td>
+<td align="center">56,275</td>
+<td align="right">625</td>
+</tr>
+<tr>
+<td>80</td>
+<td align="center">25</td>
+<td align="center">53</td>
+<td align="center">55,500</td>
+<td align="right">712</td>
+</tr>
+<tr>
+<td>90</td>
+<td align="center">22</td>
+<td align="center">40</td>
+<td align="center">63,475</td>
+<td align="right">1,023</td>
+</tr>
+<tr>
+<td>100</td>
+<td align="center">25</td>
+<td align="center">39</td>
+<td align="center">62,925</td>
+<td align="right">983</td>
+</tr>
+</tbody>
+</table>
+<p>The table shows how well Swiss Franc trended in the 80s.
+<strong>Only trade in the direction of the long-term trend</strong></p>
          
       </div>
     </div>
