@@ -6,7 +6,7 @@ categories:
   - Development
 tags:
   - trading
-image: 'img/portfolio/sun-shoes.jpg'
+image: 'img/portfolio/moon_glow.jpg'
 showonlyimage: no
 weight: 1
 ---

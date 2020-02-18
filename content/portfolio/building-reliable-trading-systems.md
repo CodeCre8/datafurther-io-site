@@ -6,9 +6,9 @@ categories:
   - Development
 tags:
   - trading
-image: 'img/portfolio/sun-two-poles.jpg'
+image: 'img/portfolio/sun-shoes.jpg'
 showonlyimage: no
-weight: 10
+weight: 1
 output: 
   html_document:
     number_sections: TRUE
