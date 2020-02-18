@@ -8,7 +8,7 @@ tags:
   - trading
 image: 'img/portfolio/moon_glow.jpg'
 showonlyimage: no
-weight: 1
+weight: 10
 ---
 
 This is a R article written by Wei Lin. It is about using R to build data product to do long-term trading. It is a simple automated system in R that Wei Lin built while learning R. I am going to do the same. Content coming soon.
