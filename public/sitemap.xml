@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/portfolio/automated-trading-system/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/building-reliable-trading-systems/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url>
@@ -55,6 +50,11 @@
   <url>
     <loc>/portfolio/statistician-with-r/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/automated-trading-system/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
