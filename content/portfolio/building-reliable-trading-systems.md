@@ -9,6 +9,9 @@ tags:
 image: 'img/portfolio/sun-two-poles.jpg'
 showonlyimage: no
 weight: 10
+output: 
+  html_document:
+    number_sections: TRUE
 ---
 
 This book written by Keith Fitschen provides a lot of chart examples. I hope this can help me get used to reading charts and forming insights to action. This book will serve as perfect complement to other projects. 
