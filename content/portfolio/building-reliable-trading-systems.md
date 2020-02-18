@@ -22,7 +22,7 @@ To trade successfully, I need to know more than using R to work with data. I nee
 After researching the reviews online, I have got a good feeling about "Building a Trading System". 
 >One of the best systematic trading books out there   
 I have read many systematic trading books but I recommend this one above all of them. The author shows absolutely mind blowing equity curves with strategies so simple, and hundreds or thousands of trades per strategy, that overfitting seems very very unlikely. Those equity curves look better than in any other book I have ever seen. If you aren't satisfied with this book i don't know what on earth can satisfy you.   
-- Verified Purchaser, September 9, 2018   
+>- Verified Purchaser, September 9, 2018   
 
 ## The Author - Keith Fitchen
 Keith Fitchen is the creator of three very successful systems: Aberration, Aztec, I-Master and the president of TradeSystem, Inc. He is recognized as one of the most dedicated professional technical analysts in the financial industry.
