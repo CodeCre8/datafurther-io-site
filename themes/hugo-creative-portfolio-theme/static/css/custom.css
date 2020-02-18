@@ -40,3 +40,7 @@ li {
 .sidebar-menu li {
   margin-left: 0;
 }
+hr {
+  border: 10px solid #efefef;
+  border-top: 1px solid #efefef;
+}
