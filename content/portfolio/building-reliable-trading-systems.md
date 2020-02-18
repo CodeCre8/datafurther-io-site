@@ -74,15 +74,15 @@ According to the author, curve-fitting can be defined as the following:
 **Parameter:** Moving Average. 
 **Idea:** If today's n-day average is higher than yesterday's, the trend is up so I buy one contract. I hold that position until today's n-day average is less than yesterday's. When that happens, I exit my long posiition and go short. It is called a *reversal system*. I always have a position and that position alternates from long to short to long. The breakout in the table below shows the results when the n-day average is varied from 10 days to 100 days in 10-day increments.
 
-| # Days | Winning Trads | Losing Trades | Profit | Profit/Trade |
-|--------|:-------------:|:-------------:|:------:|-------------:|
-| 10     | 116           | 184           | 31,625 | 105          |
-| 20     | 77            | 127           | 64,200 | 315          |
-| 30     | 59            | 99            | 50,763 | 321          |
-| 40     | 49            | 63            | 61,037 | 545          |
-| 50     | 37            | 43            | 72,072 | 900          |
-| 60     | 25            | 59            | 45,187 | 538          |
-| 70     | 36            | 54            | 56,275 | 625          |
+|     # Days     |     Winning Trads     |     Losing Trades     |     Profit | Profit/Trade     |
+|--------        |:-------------:|:-------------:|:------:|-------------:|
+|       10       | 116           | 184           | 31,625 | 105          |
+|       20     | 77            | 127           | 64,200 | 315          |
+|       30     | 59            | 99            | 50,763 | 321          |
+|       40     | 49            | 63            | 61,037 | 545          |
+|       50     | 37            | 43            | 72,072 | 900          |
+|       60     | 25            | 59            | 45,187 | 538          |
+|       70     | 36            | 54            | 56,275 | 625          |
 | 80     | 25            | 53            | 55,500 | 712          |
 | 90     | 22            | 40            | 63,475 | 1,023        |
 | 100    | 25            | 39            | 62,925 | 983          |
