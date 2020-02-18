@@ -1,8 +1,8 @@
 ---
-title: 'How Am I Feeling?'
+title: 'State of Mind'
 author: CodeCre8
 date: '2020-01-10'
-slug: how-am-i-feeling
+slug: state-of-mind
 categories:
   - Personal
 tags: []
@@ -10,5 +10,5 @@ image: ''
 showonlyimage: no
 weight: 6
 ---
-I have many options. Take action now. I am in a stronger position than I realize. Open my mind. Look at other routes. 
+I have got a plan. The path to success is to follow a set of daily actions that will produce good results if I follow up consistently.
 <!--more-->

@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: ~/Documents/ 2020/R-sites/datafurther-io-site/datafurther-io-site
