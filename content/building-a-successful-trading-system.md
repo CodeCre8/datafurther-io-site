@@ -1,5 +1,5 @@
 ---
-title: Building Successful Trading Systems
+title: 'Building Successful Trading Systems'
 date: '2020-02-17'
 slug: building-successful-trading-systems
 categories:

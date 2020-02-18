@@ -13,13 +13,12 @@ output:
 weight: 9
 ---
 
-# Add Statistics to R
-
 I had a problem.  
 
 Having witnessed the lies and lack of accountabilities during the implosion of the financial market in 2008, I no longer believed in the existence of professionalism and integrity in the financial industry. The sceptic in me has decided the role of keeping and growing my own hard-earned savings has to be a personal one.
 <!--more-->
 
+# Add Statistics to R
 With the role comes the task of trading. It is something that I have to take as seriously as a second job. Further more, I need to be good at it. I want to be a trader who is successful and trades profitable.  
 
 In this juncture of my life, the timing is perfect for me to devote the needed time and focus to take on this new challenge.I was taking courses on DataCamp out of interest of working with data, and that is where I discovered R. I believe knowing how to work with data efficiently can be a huge help in trading stocks. As I started taking courses such as Quantitative Analyst with R on DataCamp, I found myself running into concepts that I didn't really quite understanding. I started to suspect that knowing how use R to work with data isn't going to be enough. The fear of getting in over my head started to set in until I stumbled upon statistics.
